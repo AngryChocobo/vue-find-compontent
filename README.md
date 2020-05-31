@@ -1,5 +1,7 @@
 # vue-find-compontent
 
+vue的一个工具函数，提供查找指定name的父、子、兄弟节点的功能
+
 ## Project setup
 ```
 yarn install
